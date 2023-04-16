@@ -1,6 +1,6 @@
 # my_app
 
-A new Flutter project.
+dark moded calculator for ppl who like to use calcultor running in app.
 
 ## Getting Started
 
